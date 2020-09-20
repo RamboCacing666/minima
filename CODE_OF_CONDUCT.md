@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+#Enable Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -67,8 +67,8 @@ members of the project's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
+This Code of Conduct is adapted from the [Contributor Covenant][EzalJb_2], version 1.4,
+available at [http://contributor-covenant.org/version/1/4][update]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
